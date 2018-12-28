@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Domine|Montserrat');
+
+body {
+  background-color: #ff3333;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Domine', serif;
+  font-weight: bold;
+}
+
+.container {
+  margin-top: 3%;
+}
+
+ul {
+  margin-top: 5%;
+}
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+  background-color: #ff3333;
+}
+
+li span {
+  display: block;
+  font-size: 4.5rem;
+  color: #33ff;
+  border-bottom: 2px solid #33ff;
+}
